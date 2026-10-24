@@ -1,0 +1,6 @@
+{
+  "name": "Bowmasters 2D - Duelo de Arqueros",
+  "description": "Juego móvil vertical de tiro con arco y física 2D contra IA, con ruleta de recompensas, tienda de skins y modo offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
